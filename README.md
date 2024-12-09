@@ -1,7 +1,35 @@
-Hello, I'm @RyanLatimer
+# 💫 About Me  
+👋 Hi there! I'm Ryan Latimer  – a high school student from Northern Michigan, passionate about **math**, **science**, and **engineering** across multiple disciplines.
 
-- I have an interest in contribution to open source and furthering the public good through it.
-- I am a high school student who is profficient in Python, and learning Java, C++, and C#.
-- I am currently interested in Machine Learning, embedded systems, robotics and engineering.
-- Currently I am part of my high schools First Robotics Competition team.
-- Projects that I am actively developing include: my grades Science Fair Project(Autonous Robot), and developing a ML stock predicting application(StockSight)
+---
+
+## 🌟 Interests
+- **Machine Learning & AI**: Creating models for predictions and analysis in a wide range of fields.
+- **Robotics**: Exploring control systems, motion dynamics, and automation. 
+- **Programming**: Building tools, automating workflows, and solving challenging problems.  
+- **Math & Physics**: Particularly calculus-based applications that solve real-world problems with statistical analysis.
+- **Hobbies**:  
+  - 📸 Photography and videography  
+  - 🎿 Skiing  
+  - ⛵ Sailing
+  - 🏃‍➡️ Running
+---
+
+## 🌌 Projects  
+### **Science Fair Autonomous Robot**
+Creating a Raspberry Pi Pico autonomous robot that uses Ultrasound sensors to navigate a randomized course.
+
+---
+
+## 📚 What I’m Learning 
+- Python
+- - Java
+- C++
+- C#
+- Micropython
+- Advanced ML techniques for analyzing complex datasets  
+
+---
+
+## 📫 Connect with Me  
+Feel free to explore public repositories listed on my profile.
