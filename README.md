@@ -23,7 +23,7 @@ Creating a Raspberry Pi Pico autonomous robot that uses Ultrasound sensors to na
 
 ## 📚 What I’m Learning 
 - Python
-- - Java
+- Java
 - C++
 - C#
 - Micropython
