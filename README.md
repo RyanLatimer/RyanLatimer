@@ -19,6 +19,8 @@
 ### **Science Fair Autonomous Robot**
 Creating a Raspberry Pi Pico autonomous robot that uses Ultrasound sensors to navigate a randomized course.
 
+### **FRC7790.com Development**
+I am currently the lead developer of my FIRST Robotics teams website, the source code for which is open source.
 ---
 
 ## 📚 What I’m Learning 
@@ -27,7 +29,8 @@ Creating a Raspberry Pi Pico autonomous robot that uses Ultrasound sensors to na
 - C++
 - C#
 - Micropython
-- Advanced ML techniques for analyzing complex datasets  
+- Advanced ML techniques for analyzing complex datasets
+- Full Stack Web Development
 
 ---
 
