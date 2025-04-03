@@ -4,7 +4,7 @@
 High school student with a passion for robotics, artificial intelligence, and embedded systems development. As a co-founder of AVEXEL and active contributor to FRC Team 7790, I blend technical skills with practical application in competitive robotics environments. I'm driven by creating solutions that merge hardware and software in innovative ways.
 
 ## Technical Skills
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLatimer&layout=compact&theme=radical)](https://github.com/RyanLatimer)
 ### Programming Languages
 - **Python**: Advanced proficiency, primary language for AI and automation projects
 - **Java**: Intermediate skills, used for FRC robot programming and Android development
