@@ -1,9 +1,5 @@
 # Ryan Latimer
 
-## About Me
-High school student with a passion for robotics, artificial intelligence, and embedded systems development. As a co-founder of AVEXEL and active contributor to FRC Team 7790, I blend technical skills with practical application in competitive robotics environments. I'm driven by creating solutions that merge hardware and software in innovative ways.
-
-## Technical Skills
 [![Ryanlatimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlatimer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlatimer&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
