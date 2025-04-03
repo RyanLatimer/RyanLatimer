@@ -1,8 +1,8 @@
 # Ryan Latimer
 
-[![Ryanlatimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlatimer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryanlatimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlatimer&show_icons=true&theme=dracula&rank_icon=)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlatimer&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlatimer&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### AVEXEL
 - Co-founder alongside [@Cld3d](https://github.com/Cld3d), establishing a technology-focused business
