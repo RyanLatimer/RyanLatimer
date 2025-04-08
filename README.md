@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlatimer&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### AVEXEL
-- Co-founder alongside [@Cld3d](https://github.com/Cld3d), establishing a technology-focused business
+- Co-founder alongside [@cld3d](https://github.com/Cld3d), establishing a technology-focused business
 - Lead developer for client web solutions and custom applications
 - Successfully delivered the [FRC7790.com](https://frc7790.com) website, enhancing team visibility and communication
 - Implemented automated systems for project management and client relationship tracking
